@@ -72,4 +72,4 @@ Some insights you can generate using this dataset:
 8. **Most expensive & cheapest menu items**.
 9. **Daily revenue trend** – sales growth over time.
 
-💡 This project is a great starting point for **SQL portfolio work** — you can expand it by adding stored procedures, views, or even Power BI/Tableau dashboards for visualization.
+
