@@ -60,7 +60,7 @@ restaurant_db_project/
 
 ## 📊 Example Analyses
 
-Some insights you can generate using this dataset:
+insights you can generate using this dataset:
 
 1. **Total revenue** – overall sales amount.
 2. **Top 10 popular items** – most ordered menu items.
